@@ -1,0 +1,143 @@
+* {
+ margin: 0;
+ padding: 0;
+ font-family: Tahoma;
+}
+
+input#txtGender2 {
+    margin: 10px;
+}
+
+input#txtGender1 {
+    margin-left: 125px;
+    margin-right: 10px;
+}
+
+button {
+    cursor: pointer;
+    padding: 7px 13px;
+    border-radius: 5px;
+}
+
+textarea {
+    position: absolute;
+    left: 200px;
+    width: 400px;
+    border-radius: 5px;
+    height: 90px;
+}
+
+label {
+    line-height: 40px;
+}
+
+input[type="text"], input[type="email"], input[type="password"], input[type="date"] {
+    padding: 5px 3px;
+    border-radius: 5px;
+    position: absolute;
+    left: 200px;
+    line-height: 20px;
+    width: 400px;
+}* {
+ margin: 0;
+ padding: 0;
+ font-family: Tahoma;
+}
+
+.btn {
+    text-align: center;
+    padding: 10px;
+}
+
+input[type="checkbox"] {
+    margin: 6px;
+    width: 14px;
+}
+
+input#checkbox1 {
+    margin-left: 125px;
+}
+
+input#txtFavourite {
+    margin-left: 93px;
+    line-height: 20px;
+}
+
+input#txtGender2 {
+    margin: 10px;
+}
+
+input#txtGender1 {
+    margin-left: 125px;
+    margin-right: 10px;
+}
+
+button {
+    cursor: pointer;
+    padding: 7px 13px;
+    border-radius: 5px;
+    margin: 0 5px;
+}
+
+button:hover {
+    background: #ccc;
+}
+
+textarea {
+    position: absolute;
+    left: 200px;
+    width: 600px;
+    border-radius: 5px;
+    height: 120px;
+}
+
+label {
+    line-height: 40px;
+}
+
+input[type="text"], input[type="email"], input[type="password"], input[type="date"] {
+    padding: 5px 3px;
+    border-radius: 5px;
+    position: absolute;
+    left: 200px;
+    line-height: 20px;
+    width: 400px;
+}
+
+input#txtBirthday {
+    width: 600px;
+}
+
+input#txtFullName {
+    width: 600px;
+}
+
+.container{
+    width: 960px;
+    margin: auto;
+}
+fieldset {
+    padding: 15px;
+    border-radius: 7px;
+    position: relative;
+}
+
+fieldset:nth-child(2) {
+    /* padding-bottom: 91px; */
+    margin-top: 15px;
+}
+
+.container{
+    width: 850px;
+    margin: auto;
+    margin-top: 50px;
+}
+fieldset {
+    padding: 15px;
+    border-radius: 7px;
+    position: relative;
+}
+
+fieldset:nth-child(2) {
+    padding-bottom: 100px;
+}
